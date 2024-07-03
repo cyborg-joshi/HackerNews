@@ -17,7 +17,7 @@ This is a simple iOS app built using SwiftUI that fetches and displays the lates
 
 ## Installation
 1. Clone this repository to your local machine:
-2. 
+ 
 2. Open the project in Xcode.
 
 3. Build and run the app on a simulator or a physical device.
